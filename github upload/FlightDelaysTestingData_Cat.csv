@@ -1,6 +1,0 @@
-CARRIER,DEST,ORIGIN,Weather,DAY_WEEK,DAY_OF_MONTH,Flight Status,Dist,Delay_Departure
-US,LGA,DCA,0,4,1,ontime,High,No
-DH,LGA,IAD,0,5,2,delayed,High,Yes
-RU,EWR,BWI,0,5,2,ontime,Low,No
-RU,EWR,IAD,0,5,2,delayed,High,No
-MQ,LGA,DCA,0,7,4,delayed,High,Yes
